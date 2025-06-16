@@ -10,7 +10,7 @@
 - Build da aplicação
 - (Opcional) Execução de testes
 - Deploy automático para GitHub Pages
-- 
+  
 ## Como rodar localmente
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
